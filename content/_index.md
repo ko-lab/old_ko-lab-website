@@ -1,6 +1,6 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-title: "Welcome to Ko-Lab!"
+title: "Ko-Lab Hackerspace Mechelen"
 ---
 
 A **Hackerspace** -- also referred to as a makerspace, hacklab -- is a community-operated workspace where people can meet, socialize and ko-laborate. Often with common interests in science, technology, articrafts, digital art etc. It offers the place and time to do or find out what you really love to do.
@@ -16,7 +16,7 @@ _Ko-Lab – Because we love to play, learn, and grow … together_
 
 ### Meer weten?
 
-* [info(at)ko-lab.space](mailto:info(at)ko-lab.space)
+* [info at ko-lab.space](mailto:info(at)ko-lab.space)
 * IRC: [#ko-lab](http://webchat.freenode.net/?channels=ko-lab) on freenode
 * [Riot](https://ptt.hackerspace.be/#/room/#ko-lab:hackerspace.be)
 
