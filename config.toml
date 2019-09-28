@@ -1,0 +1,52 @@
+baseURL = ""
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "KO-LAB"
+theme = "cupper-hugo-theme"
+googleAnalytics = ""
+disqusShortname = "yourdiscussshortname"
+enableGitInfo = true
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[imaging]
+  quality = 99
+
+[params]
+  description = "A Space to Explore, Create and Share."
+  homeMetaContent = "A Space to Explore, Create and Share"
+  footer = ""
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat = "Jan 2, 2006"
+  codePenUser = "someUser"
+  katex = true
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Events"
+    url = "/events/"
+    weight = 3
+  [[menu.nav]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 4
+  [[menu.nav]]
+    name = "Membership"
+    url = "/membership"
+    weight = 5
+  [[menu.nav]]
+    name = "About"
+    url = "/about"
+    weight = 6
+  [[menu.nav]]
+    name = "Links"
+    url = "/links"
+    weight = 7

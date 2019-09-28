@@ -1,0 +1,29 @@
+<header class="intro-and-nav" role="banner">
+  <div>
+    <div class="intro">
+      <a class="logo" href="/" aria-label="{{ .Site.Title }} home page">
+        <img src="{{ "images/logo.svg" | absURL }}" alt="">
+      </a>
+      <p class="library-desc">
+        {{ with .Site.Params.description }}
+          {{ . | markdownify }}
+        {{ end }}
+      </p>
+    </div>
+    {{ partial "nav.html" . }}
+    <div>
+        <a href="/index.xml">RSS</a>
+        <a href="https://www.facebook.com/HS.ko.lab/">Facebook</a>
+        <a href="https://github.com/ko-lab">Gihub</a>
+        <a href="https://wiki.ko-lab.space/">Wiki</a>
+        <a href="https://ptt.hackerspaces.be/#/room/#ko-lab:hackerspaces.be">Riot</a>
+        
+    </div>
+    <div>
+          <label for="themer">
+            dark theme: <input type="checkbox" id="themer" class="vh">
+            <span aria-hidden="true"></span>
+          </label>
+      </div>
+  </div>
+</header>
