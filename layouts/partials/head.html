@@ -29,7 +29,7 @@
   <style id="inverter" media="none">
     html { filter: invert(100%) }
     * { background-color: inherit }
-    img, .colors, iframe, .demo-container { filter: invert(100%); }
+    img:not([src$=".svg"]), img.logo, .colors, iframe, .demo-container { filter: invert(100%); }
   </style>
 
   {{ $title := print .Title " | " .Site.Title }}
