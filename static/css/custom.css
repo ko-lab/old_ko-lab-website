@@ -56,3 +56,17 @@ h1 {
 h3:not([class="patterns-list"]) {
     margin-bottom: -1.2rem;
 }
+
+img[src$='#floatright'] {
+	max-width: 40%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: right;
+}
+
+img[src$='#floatleft'] {
+	max-width: 40%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: left;
+}
