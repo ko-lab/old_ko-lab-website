@@ -1,3 +1,16 @@
-p > library.desc {
-    font-size: 2rem;
+.library-desc {
+    font-size: 0.8rem;
+    margin: 0em 0.2em;
+}
+
+main {
+    min-height: 0;
+}
+
+.navfooter {
+    text-align: center;
+}
+
+div.navfooter a {
+    border-bottom: solid 0px;
 }
