@@ -1,6 +1,6 @@
 ---
 date: "2014-04-09"
-title: "Lidmaatschap"
+title: "Membership"
 ---
 
 **Op vrijdagavond is iedereen welkom vanaf 19u** -- nieuwsgierigen, geïnteresseerden, bezoekers, leden.
