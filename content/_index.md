@@ -11,8 +11,7 @@ _Ko-Lab – Because we love to play, learn, and grow … together_
 
 > **Interested? Join us on Open Friday!**  
 > **Every Friday at 19h**  
-> Potterijstraat 5, 2800 Mechelen [(map)](https://goo.gl/maps/yJpeJvWsEqhQ6sit7)   
-> Groene poort
+> Potterijstraat 5, 2800 Mechelen [(map)](https://goo.gl/maps/yJpeJvWsEqhQ6sit7)
 
 ### Meer weten?
 
