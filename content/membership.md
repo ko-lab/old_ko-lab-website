@@ -3,7 +3,7 @@ date: "2014-04-09"
 title: "Lidmaatschap"
 ---
 
-Op vrijdagavond is iedereen welkom vanaf 19u -- nieuwsgierigen, geïnteresseerden, bezoekers, leden.
+**Op vrijdagavond is iedereen welkom vanaf 19u** -- nieuwsgierigen, geïnteresseerden, bezoekers, leden.
 
 We verwelkomen je graag enkele keren in de hackerspace zodat je de sfeer, community en ruimte op kan snuiven. 
 Als je dan zin hebt om lid te worden, kom je naar Ko-Lab en vraag je om lid te worden.
