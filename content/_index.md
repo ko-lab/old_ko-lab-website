@@ -7,10 +7,12 @@ A **Hackerspace** -- also referred to as a makerspace, hacklab -- is a community
 
 Dus, **Ko-Lab** biedt de ruimte; jij bepaalt of het een werkplek, een gezellige huiskamer, een atelier, een machinewinkel, een kunststudio, een leerplek en/of een ontmoetingsplek wordt. 
 
+_Ko-Lab – Because we love to play, learn, and grow … together_
+
 > **Interested? Join us on Open Friday!**  
 > **Every Friday at 19h**  
-> Potterijstraat 5, 2800 Mechelen  
-> (Groene poort)
+> Potterijstraat 5, 2800 Mechelen [(map)](https://goo.gl/maps/yJpeJvWsEqhQ6sit7)   
+> Groene poort
 
 ### Meer weten?
 
@@ -18,5 +20,3 @@ Dus, **Ko-Lab** biedt de ruimte; jij bepaalt of het een werkplek, een gezellige 
 * IRC: [#ko-lab](http://webchat.freenode.net/?channels=ko-lab) on freenode
 * [Riot](https://ptt.hackerspace.be/#/room/#ko-lab:hackerspace.be)
 
-
-_Ko-Lab – Because we love to play, learn, and grow … together_
