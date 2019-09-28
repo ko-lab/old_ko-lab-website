@@ -2,7 +2,7 @@
   <div>
     <div class="intro">
       <a class="logo" href="/" aria-label="{{ .Site.Title }} home page">
-        <img src="{{ "images/logo.svg" | absURL }}" alt="">
+        <img class="logo" src="{{ "images/logo.svg" | absURL }}" alt="">
       </a>
       <p class="library-desc">
         {{ with .Site.Params.description }}
@@ -12,11 +12,11 @@
     </div>
     {{ partial "nav.html" . }}
     <div>
-        <a href="/index.xml">RSS</a>
-        <a href="https://www.facebook.com/HS.ko.lab/">Facebook</a>
-        <a href="https://github.com/ko-lab">Gihub</a>
-        <a href="https://wiki.ko-lab.space/">Wiki</a>
-        <a href="https://ptt.hackerspaces.be/#/room/#ko-lab:hackerspaces.be">Riot</a>
+        <a href="/index.xml"><img src="/images/fontawesome/rss-square.svg" width = 20></a>
+        <a href="https://www.facebook.com/HS.ko.lab/"><img src="/images/fontawesome/facebook.svg" width = 20></a>
+        <a href="https://github.com/ko-lab"><img src="/images/fontawesome/github.svg" width = 20></a>
+        <a href="https://wiki.ko-lab.space/"><img src="/images/fontawesome/pen-square.svg" width = 20></a>
+        <a href="https://ptt.hackerspaces.be/#/room/#ko-lab:hackerspaces.be"><img src="/images/fontawesome/comment.svg" width = 20></a>
         
     </div>
     <div>
