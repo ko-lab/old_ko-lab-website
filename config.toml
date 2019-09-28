@@ -17,7 +17,7 @@ enableGitInfo = true
   quality = 99
 
 [params]
-  description = "A Space to Explore, Create and Share."
+  description = "A Space to Explore, Create and Share. 🚀"
   homeMetaContent = "A Space to Explore, Create and Share"
   footer = ""
   # For more date formats see https://gohugo.io/functions/format/
