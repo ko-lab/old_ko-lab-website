@@ -7,10 +7,44 @@ main {
     min-height: 100vh;
 }
 
-.navfooter {
+div.navfooter {
     text-align: center;
+    align-self: center;
+}
+
+@media only screen and (min-height: 700px) {
+    div.navfooter {
+        width: 120px;
+    }
 }
 
 div.navfooter a {
     border-bottom: solid 0px;
+}
+
+.intro-and-nav > div {
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+
+.patterns {
+    overflow: visible;
+}
+
+.intro-and-nav > div  {
+    overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* IE 10+ */
+}
+
+.intro-and-nav > div::-webkit-scrollbar { /* WebKit */
+    width: 0;
+    height: 0;
+}
+
+[for="themer"] {
+    vertical-align: super;
+    font-size: 0.8em;
+    margin: 0.5em 0em;
+    padding: 0.2em 0.75em;
 }
