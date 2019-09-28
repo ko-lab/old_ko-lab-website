@@ -19,7 +19,7 @@ Je kan op **jaarbasis** of **maandbasis** je lidmaatschap betalen:
 | Prijzen               | Maandbasis      | Jaarbasis     |
 | --------------------- | --------------: | -------------:|
 | < 18 jaar	| Helft van je leeftijd in € | 11 x (helft van je leeftijd) in € |
-| Studenten <= 25 jaar  |             10€ |          110€ |
+| Studenten &le; 25 jaar  |             10€ |          110€ |
 | Volwassenen           |             15€ |          165€ |
 
 Over te schrijven op rekeningnummer `BE29893944052464` met boodschap `jaardonatie <achternaam+voornaam>` of `maanddonatie <achternaam+voornaam>`.
