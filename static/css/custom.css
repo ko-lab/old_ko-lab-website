@@ -48,3 +48,11 @@ div.navfooter a {
     margin: 0.5em 0em;
     padding: 0.2em 0.75em;
 }
+
+h1 {
+    margin-bottom: -0.3rem;
+}
+
+h3:not([class="patterns-list"]) {
+    margin-bottom: -1.2rem;
+}
