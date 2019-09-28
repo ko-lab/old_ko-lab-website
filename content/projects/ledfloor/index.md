@@ -4,4 +4,4 @@ date: 2019-02-14T15:36:09-06:00
 tags: [LED]
 ---
 
-Lorem Ipsum
+{{< figure img="ledfloor.jpg" command="Resize" options="700x" >}}

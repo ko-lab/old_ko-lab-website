@@ -15,6 +15,7 @@ title: "Links"
 
 
 ### Handig
+![Ko-Lab Robot](/images/Robot-3-transparant-768x1024.png#floatright)
 
 * [Belgium Hacker Agenda](http://hackeragenda.be/)
 * [Circuitsonline](http://www.circuitsonline.net/)
@@ -22,6 +23,3 @@ title: "Links"
 * [Instructables](http://www.instructables.com/)
 * [ON4MCL – Hamradio Mechelen](http://mcl.hamradio.be/)
 * [Open Source](https://opensource.org/)
-
-
-![Ko-Lab Robot](/images/ko-lab-robot-transparant-768x1024.png)
