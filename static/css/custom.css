@@ -70,3 +70,7 @@ img[src$='#floatleft'] {
 	height: auto;
 	float: left;
 }
+
+figcaption::before {
+        content: '';
+}
