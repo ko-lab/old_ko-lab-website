@@ -12,7 +12,7 @@ div.navfooter {
     align-self: center;
 }
 
-@media only screen and (min-height: 700px) {
+@media only screen and (min-height: 800px) {
     div.navfooter {
         width: 120px;
     }

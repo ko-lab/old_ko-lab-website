@@ -32,12 +32,12 @@ enableGitInfo = true
     url = "/"
     weight = 1
   [[menu.nav]]
-    name = "The Space"
-    url = "/thespace/"
-    weight = 2
-  [[menu.nav]]
     name = "Events"
     url = "/events/"
+    weight = 2
+  [[menu.nav]]
+    name = "The Space"
+    url = "/thespace/"
     weight = 3
   [[menu.nav]]
     name = "Projects"
@@ -48,10 +48,10 @@ enableGitInfo = true
     url = "/membership"
     weight = 5
   [[menu.nav]]
-    name = "About"
-    url = "/about"
-    weight = 6
-  [[menu.nav]]
     name = "Links"
     url = "/links"
+    weight = 6
+  [[menu.nav]]
+    name = "About"
+    url = "/about"
     weight = 7

@@ -8,12 +8,15 @@ title: "Events"
 
 {{< meetup-events "Ko-Lab-mechelen" >}}
 
-## Some Past Highlights...
+## Past Highlights
 
 ![Ko-Lab Robot](/images/Robot-2-transparant-768x1024.png#floatright)
 
-* Opendeurdag 2019
-* Special guest Mitch Altman @ Ko-Lab
+* Opendeurdag
+* Ko-Lab field trip to the VRT building and radio tower in Brussels
+* Talks about the Russian space program, cryptography, plastics ...
+* Workshops Micropython, making games with Unity, lock picking ...
+* Special guest Mitch Altman at Ko-Lab
 * Arcadekast bouwen
 * Repair Café  @ vzw De Keeting
 * Deelname BK Power Tool Drag Racing @ Open Garage
