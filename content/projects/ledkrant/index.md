@@ -7,8 +7,9 @@ tags: [LED, IoT, Micropython]
 ### Everything looks better in LED!
 
 The LED-krant 
-ESP32 with Micropython, 
+ESP32 with Micropython
 
-{{< figure img="ledkrant1.jpg" command="Resize" options="700x" captio="A hacker campfire" >}}
+
+{{< figure img="ledkrant1.jpg" command="Resize" options="700x" caption="A hacker campfire" >}}
 {{< figure img="ledkrant2.jpg" command="Resize" options="700x" >}}
 {{< figure img="ledkrant3.jpg" command="Resize" options="700x" >}}

@@ -4,12 +4,12 @@ title: "Events"
 ---
 
 
-### Upcoming Events
+## Upcoming Events
 
-[Please see our Meetup page](https://www.meetup.com/Ko-Lab-mechelen/)
+{{< meetup-events "Ko-Lab-mechelen" >}}
 
+## Some Past Highlights...
 
-### Some Past Highlights...
 ![Ko-Lab Robot](/images/Robot-2-transparant-768x1024.png#floatright)
 
 * Opendeurdag 2019

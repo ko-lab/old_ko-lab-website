@@ -1,0 +1,29 @@
+
+
+{{ $group := (.Get 0) }}
+{{ $page := (printf "https://www.meetup.com/%s" $group) }}
+{{ $jsonurl := (printf "https://api.rss2json.com/v1/api.json?rss_url=https://www.meetup.com/%s/events/rss/" $group) }}
+{{ $dataJ := getJSON $jsonurl }}
+
+<div class="meetup-events">
+    <ul>
+        {{ range first 5 $dataJ.items }}
+            <li>
+                <strong>{{ .title }}</strong> </br>
+
+                {{ $pars := findRE "<p>[^<]+</p>" .description }} 
+                {{/* {{ $org  := index $pars 0 | plainify }} */}}
+                {{ $info := index $pars 1 | plainify }}
+                {{/* {{ $loc  := index $pars 2 | plainify }} */}}
+                {{ $date := index $pars 3 | plainify }} 
+                
+                {{ $date }} <br>
+                {{ if ne .title "Open Friday" }}<em>{{ $info }}</em><br>{{ end }}
+                <a href={{ .link }}>(more info)</a>
+            </li>
+        {{ end }}
+    </ul>
+    <p class="meetup-events-ext-link" >
+        For more visit <a href="{{ $page }}">our Meetup page.</a>
+    </p>
+</div>

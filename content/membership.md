@@ -9,11 +9,12 @@ We verwelkomen je graag enkele keren in de hackerspace zodat je de sfeer, commun
 Als je dan zin hebt om lid te worden, kom je naar Ko-Lab en vraag je om lid te worden.
 
 ### Waarom lid worden?
+
 {{% ticks %}}
-* Je kan onbeperkt gebruik maken van de ruimte en alle aanwezige materiaal. Je kan dus ook op andere dagen langskomen.
-* Je bent verzekerd.
-* Je krijgt korting op georganiseerde workshops en activiteiten.
-{{% ticks %}}
+  * Je kan onbeperkt gebruik maken van de ruimte en alle aanwezige materiaal. Je kan dus ook op andere dagen langskomen.
+  * Je bent verzekerd.
+  * Je krijgt korting op georganiseerde workshops en activiteiten.
+{{% /ticks %}}
 
 ### Prijzen
 Je kan op **jaarbasis** of **maandbasis** je lidmaatschap betalen:
