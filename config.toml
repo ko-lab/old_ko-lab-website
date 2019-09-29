@@ -33,7 +33,7 @@ enableGitInfo = true
     weight = 1
   [[menu.nav]]
     name = "The Space"
-    url = "/thespace"
+    url = "/thespace/"
     weight = 2
   [[menu.nav]]
     name = "Events"
