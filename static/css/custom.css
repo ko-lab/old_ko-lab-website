@@ -82,18 +82,23 @@ figcaption::before {
     max-width: 20vw;
 }
 
-@media only screen and (min-height: 1000px) {
+@media only screen and (min-height: 900px) {
     .project-list-thumbnail {
-        display: inline-block;
         max-width: 230px;
     }
 }
 
 .project-list-description {
-    max-width: calc(100% - 230px);
+    max-width: calc(100% - 25vw);
     margin: 0 0 0 1rem;
     display: inline-block;
     vertical-align: top;
+}
+
+@media only screen and (min-height: 900px) {
+    .project-list-description {
+        max-width: calc(100% - 230px);
+    }
 }
 
 .project-list-title  {
