@@ -76,9 +76,17 @@ figcaption::before {
 }
 
 
+
 .project-list-thumbnail {
     display: inline-block;
-    max-width: 230px;
+    max-width: 20vw;
+}
+
+@media only screen and (min-height: 1000px) {
+    .project-list-thumbnail {
+        display: inline-block;
+        max-width: 230px;
+    }
 }
 
 .project-list-description {
