@@ -80,7 +80,7 @@ figcaption::before {
 .project-list-thumbnail {
     display: inline-block;
     box-sizing: border-box;
-    max-width: 20vw;
+    max-width: 20%;
 }
 
 @media only screen and (min-height: 900px) {
@@ -90,15 +90,16 @@ figcaption::before {
 }
 
 .project-list-description {
-    max-width: calc(100% - 25vw);
+    max-width: 70%;
     box-sizing: border-box;
-    margin: 0 0 0 1rem;
+    margin: 0 0 0 5%;
     display: inline-block;
     vertical-align: top;
 }
 
 @media only screen and (min-height: 900px) {
     .project-list-description {
+        margin: 0 0 0 1rem;
         max-width: calc(100% - 230px);
     }
 }
