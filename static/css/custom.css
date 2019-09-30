@@ -79,7 +79,8 @@ figcaption::before {
 
 .project-list-thumbnail {
     display: inline-block;
-    max-width: 15vw;
+    box-sizing: content-box;
+    max-width: 25vw;
 }
 
 @media only screen and (min-height: 900px) {
