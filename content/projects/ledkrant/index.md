@@ -2,11 +2,11 @@
 title: "LED Krant"
 date: 2019-01-01T15:36:09-06:00
 tags: [LED, IoT, Micropython]
+description: Everything looks better in LED!
 ---
 
-### Everything looks better in LED!
 
-The LED-krant 
+
 ESP32 with Micropython
 
 

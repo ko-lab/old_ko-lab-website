@@ -1,0 +1,30 @@
+{{ define "main" }}
+  <main id="main">
+    <h1>{{ .Title }}</h1>
+    <ul class="patterns-list">
+    {{ range .Pages.ByPublishDate.Reverse }}
+      <li>
+            <div class="project-list-thumbnail">
+                <a href="{{ .Permalink }}">
+                {{ with .Resources }}
+                    {{ with .GetMatch "{thumbnail.*,*.jpg,*.png,*.jpeg}" }}
+                        {{ $thumbnail := .Fill "200x200" }}
+                        {{ with $thumbnail }}
+                            <img src="{{ .Permalink }}" />   
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                </a>   
+            </div>
+            <div class="project-list-description">
+                <a href="{{ .Permalink }}">
+                    <p class="project-list-title">{{ .Title }}</p>
+                    <p class="project-list-detail">{{ .Description }}</p>
+                </a>
+            </div>
+        </a>
+      </li>        
+    {{ end }}
+    </ul>
+  </main>
+{{ end }}
