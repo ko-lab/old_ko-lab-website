@@ -79,8 +79,8 @@ figcaption::before {
 
 .project-list-thumbnail {
     display: inline-block;
-    box-sizing: content-box;
-    max-width: 15vw;
+    box-sizing: border-box;
+    max-width: 20vw;
 }
 
 @media only screen and (min-height: 900px) {
@@ -91,7 +91,7 @@ figcaption::before {
 
 .project-list-description {
     max-width: calc(100% - 25vw);
-    box-sizing: content-box;
+    box-sizing: border-box;
     margin: 0 0 0 1rem;
     display: inline-block;
     vertical-align: top;
