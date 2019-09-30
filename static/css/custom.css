@@ -80,7 +80,7 @@ figcaption::before {
 .project-list-thumbnail {
     display: inline-block;
     box-sizing: content-box;
-    max-width: 20vw;
+    max-width: 15vw;
 }
 
 @media only screen and (min-height: 900px) {
