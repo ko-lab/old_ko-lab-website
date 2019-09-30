@@ -89,7 +89,8 @@ figcaption::before {
 }
 
 .project-list-description {
-    max-width: calc(100% - 20vw);
+    max-width: calc(100% - 25vw);
+    box-sizing: content-box;
     margin: 0 0 0 1rem;
     display: inline-block;
     vertical-align: top;
