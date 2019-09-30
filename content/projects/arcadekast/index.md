@@ -1,7 +1,7 @@
 ---
 title: "Arcadekast & Dance, Dance, Revolution"
 date: 2019-02-14T15:36:09-06:00
-tags: [Gaming, Retro]
+tags: [Gaming, Retro, LED]
 description: We made a retro arcade machine, then we turned it into a dance floor.  
 ---
 

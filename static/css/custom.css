@@ -79,7 +79,7 @@ figcaption::before {
 
 .project-list-thumbnail {
     display: inline-block;
-    max-width: 20vw;
+    max-width: 15vw;
 }
 
 @media only screen and (min-height: 900px) {
@@ -89,7 +89,7 @@ figcaption::before {
 }
 
 .project-list-description {
-    max-width: calc(100% - 30vw);
+    max-width: calc(100% - 20vw);
     margin: 0 0 0 1rem;
     display: inline-block;
     vertical-align: top;
