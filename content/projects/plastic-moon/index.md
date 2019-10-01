@@ -2,7 +2,8 @@
 title: "Plastic Moon"
 date: 2019-02-12T23:39:06-06:00
 tags: [circular economy, upcycling, plastic]
-description: Remolding old plastic into pretty new things. Saving the environment, one milk bottle at a time.
+description: Remolding old plastic into pretty new things. Saving the environment one milk bottle at a time.
+thumbnail: plastic3.jpg
 ---
 
 Een groot percentage van de wereldbevolking bestaat uit wat wij **Plastic-a-holics** noemen: mensen die meer dan drie keer per dag plastic weggooien zonder zich bewust te zijn van de consequenties. Wij willen mensen tonen dat ze **zelf aan plastic upcycling** kunnen doen, zodat ze het **eigen afval als grondstof** gaan zien en dit gaan gebruiken om **nieuwe voorwerpen te creëren.**  Om hiertoe te komen zullen we samen naar oplossingen zoeken en daarnaast de mogelijkheid bieden aan alle burgers om zelf op een eenvoudige manier mooie en creatieve voorwerpen te maken van dit afval plastic.  We willen een echte verandering in mentaliteit bekomen.

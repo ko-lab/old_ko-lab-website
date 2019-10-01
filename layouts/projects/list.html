@@ -6,14 +6,26 @@
       <li>
             <div class="project-list-thumbnail">
                 <a href="{{ .Permalink }}">
-                {{ with .Resources }}
-                    {{ with .GetMatch "{thumbnail.*,*.jpg,*.png,*.jpeg}" }}
-                        {{ $thumbnail := .Fill "200x200" }}
-                        {{ with $thumbnail }}
-                            <img src="{{ .Permalink }}" />   
+                {{ if and ( isset .Params "thumbnail" ) ( ne .Params.thumbnail nil ) }}
+                    {{ $filename := .Params.thumbnail }}
+                    {{ with .Resources }}
+                        {{ with .GetMatch $filename }}
+                            {{ $thumbnail := .Fill "200x200" }}
+                            {{ with $thumbnail }}
+                                <img src="{{ .Permalink }}" />   
                             {{ end }}
                         {{ end }}
                     {{ end }}
+                {{ else }}
+                    {{ with .Resources }}
+                        {{ with .GetMatch "{thumbnail.*,*.jpg,*.png,*.jpeg}" }}
+                            {{ $thumbnail := .Fill "200x200" }}
+                            {{ with $thumbnail }}
+                                <img src="{{ .Permalink }}" />   
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
                 </a>   
             </div>
             <div class="project-list-description">

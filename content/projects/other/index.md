@@ -1,8 +1,10 @@
 ---
 title: "Small Projects"
 date: 2000-01-01T15:36:09-06:00
+lastmod: 2000-01-01T15:36:09-06:00
 tags: []
 description: It ain't much, but it's honest work. 
+thumbnail:
 ---
 
 ### Induction Coil
