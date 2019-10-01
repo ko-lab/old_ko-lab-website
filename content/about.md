@@ -12,7 +12,7 @@ title: "About"
 Rekeningnummer: `BE29 8939 4405 2464`  
 Ondernemingsnummer: `0660.751.627`
 
-### Sponsors
+### Partners in Crime
 ![Ecoso](/images/ecoso-logo.png)
 
 ![Wireless Belgie](/images/wireless-belgie-logo.png)

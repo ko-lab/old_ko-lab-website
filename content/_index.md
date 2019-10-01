@@ -17,7 +17,6 @@ _Ko-Lab – Because we love to play, learn, and grow … together_
 
 ### Meer weten?
 
-* [info at ko-lab.space](mailto:info(at)ko-lab.space)
-* IRC: [#ko-lab](http://webchat.freenode.net/?channels=ko-lab) on freenode
-* [Riot](https://ptt.hackerspace.be/#/room/#ko-lab:hackerspace.be)
+<img src="/images/fontawesome/envelope.svg" style="width:1rem; vertical-align:middle";> [info (at) ko-lab.space](mailto:info(at)ko-lab.space)  
+<img src="/images/fontawesome/telegram.svg" style="width:1rem; vertical-align:middle";> [Telegram](https://t.me/KoLabHackerspaceMechelen)
 
