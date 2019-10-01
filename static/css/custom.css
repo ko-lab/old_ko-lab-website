@@ -22,6 +22,10 @@ div.navfooter a {
     border-bottom: solid 0px;
 }
 
+.intro-and-nav {
+    font-size: 0.9rem;
+}
+
 .intro-and-nav > div {
     overflow-y: scroll;
     scrollbar-width: none;

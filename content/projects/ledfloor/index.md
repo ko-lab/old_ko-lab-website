@@ -6,8 +6,4 @@ description: A glass floor becomes a screen. Play "4 op een rij", paint or watch
 thumbnail: 
 ---
 
-
-
-{{< figure img="ledfloor1.jpg" command="Resize" options="500x" >}}
-{{< figure img="ledfloor3.jpg" command="Resize" options="500x" >}}
-{{< figure img="ledfloor2.jpg" command="Resize" options="500x" >}}
+{{< gallery command="Resize" options="500x">}}
