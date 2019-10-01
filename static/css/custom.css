@@ -127,3 +127,7 @@ figcaption::before {
     text-align: center;
 }
 
+.nolinkborder, .nolinkborder a {
+    border-bottom: 0px;
+}
+
