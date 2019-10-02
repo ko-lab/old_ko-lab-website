@@ -14,7 +14,7 @@ div.navfooter {
 
 @media only screen and (min-height: 800px) {
     div.navfooter {
-        width: 120px;
+        width: auto;
     }
 }
 
