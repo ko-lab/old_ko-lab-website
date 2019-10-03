@@ -12,8 +12,8 @@ title: "Events"
 
 ![Ko-Lab Robot](/images/Robot-2-transparant-768x1024.png#floatright)
 
-* Opendeurdag
-* Ko-Lab field trip to the VRT building and radio tower in Brussels
+{{< blog-events >}}
+
 * Talks about the Russian space program, cryptography, plastics ...
 * Workshops Micropython, making games with Unity, lock picking ...
 * Special guest Mitch Altman at Ko-Lab
@@ -21,4 +21,3 @@ title: "Events"
 * Repair Café  @ vzw De Keeting
 * Deelname BK Power Tool Drag Racing @ Open Garage
 * Zeefdruk workshop @ Kringwinkel
-

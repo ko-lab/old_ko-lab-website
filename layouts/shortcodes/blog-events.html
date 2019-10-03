@@ -1,0 +1,10 @@
+
+<ul>
+    {{ range .Site.RegularPages.ByPublishDate.Reverse }} 
+        {{ if .Params.event }}     
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+    {{ end }}
+</ul>
