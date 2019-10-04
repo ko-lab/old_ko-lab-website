@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: ko-lab/ko-lab-website # Path to your GitHub repository
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "static/uploads" # repo: Media files will be stored in the repo under static/uploads
 public_folder: "/uploads" # published site: The src attribute for uploaded media will begin with /uploads
