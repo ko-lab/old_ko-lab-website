@@ -18,7 +18,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "List as an Event?", name: "event", widget: "boolean", default: false}
-      - {label: "Tags (separate by comma)", name: "tags", widget: "list", default: false}
+      - {label: "Tags (separate by comma)", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "project" # Used in routes, e.g., /admin/collections/blog
     label: "Project" # Used in the UI
@@ -32,6 +32,6 @@ collections:
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Short description", name: "description", widget: "string"}
       - {label: "List as an Event?", name: "event", widget: "boolean", default: false}
-      - {label: "Thumbnail", name: "thumbnail", widget: "image", default: false}
-      - {label: "Tags (separate by comma)", name: "tags", widget: "list", default: false}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+      - {label: "Tags (separate by comma)", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
