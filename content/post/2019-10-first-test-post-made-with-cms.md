@@ -8,6 +8,10 @@ tags:
 ---
 Hmm, if I understand this correctly, everyone with  a Github account and write access to the \`Ko-Lab/ko-lab-website\` repo can now login and post blog posts.
 
-\- uploading images does not seem to work
+\- uploading images works now
+
+
 
 ![](/uploads/catbird.jpg "An image of a cat. Or perhaps a bird!")
+
+![](/uploads/duckrabbit.jpg "Just a duck.")
