@@ -11,6 +11,10 @@ div.navfooter {
     text-align: center;
     align-self: center;
 }
+svg {
+    width: 1rem;
+    vertical-align: middle;
+}
 
 @media only screen and (min-height: 800px) {
     label#lightswitch {

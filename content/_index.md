@@ -9,14 +9,13 @@ Dus, **Ko-Lab** biedt de ruimte; jij bepaalt of het een werkplek, een gezellige 
 
 _Ko-Lab – Because we love to play, learn, and grow … together_
 
-![Ko-Lab Robot](/images/ko-lab-robot-transparant-768x1024.png#floatright)
+![Ko-Lab Robot](images/ko-lab-robot-transparant-768x1024.png#floatright)
 
 > **Interested? Join us on Open Friday!**  
 > **Every Friday at 19h**  
 > Potterijstraat 5, 2800 Mechelen [(map)](https://goo.gl/maps/yJpeJvWsEqhQ6sit7)
 
 ### Meer weten?
-
-<img src="/images/fontawesome/envelope.svg" style="width:1rem; vertical-align:middle";> [info (at) ko-lab.space](mailto:info(at)ko-lab.space)  
-<img src="/images/fontawesome/telegram.svg" style="width:1rem; vertical-align:middle";> [Telegram](https://t.me/KoLabHackerspaceMechelen)
-
+ {{< svg "envelope.svg" >}} [info (at) ko-lab.space](mailto:info(at)ko-lab.space)
+ 
+ {{< svg "telegram.svg" >}} [Telegram](https://t.me/KoLabHackerspaceMechelen)
