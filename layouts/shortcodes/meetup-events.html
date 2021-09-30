@@ -6,7 +6,7 @@
 <div class="meetup-events">
 
     <ul>
-        {{ range first 20 $dataJ.items }}
+        {{ range first 5 $dataJ.items }}
                 {{ if ne .title "Open Friday"}}
                 <li>
                 <strong>{{ .title }}</strong> </br>
@@ -18,8 +18,6 @@
                 <a href={{ .link }}>(more info)</a>
             </li>
                 {{else}}
-                {{ if not $exists}}
-                {{$exists = true}}
             <li>
                 <strong>
                     Open Friday
@@ -30,7 +28,6 @@
                 {{ $date }} <br>
                 <a href={{ .link }}>(more info)</a>
             </li>
-                {{end}}
                 {{end}}
         {{ end }}
     </ul>
