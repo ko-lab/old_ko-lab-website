@@ -1,34 +1,30 @@
-name: github pages
-
-on:
-  push:
-    branches:
-      - master  # Set a branch to deploy
-  pull_request:
-
+name: CI
+on: push
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+    runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v2
-        with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      - name: Git checkout
+        uses: actions/checkout@v2
 
-      - name: Setup Hugo
+      - name: Update theme
+        # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
+        run: git submodule update --init --recursive
+
+      - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.85.0'
-          # extended: true
+          hugo-version: "0.64.0"
 
       - name: Build
-        run: hugo
+        # remove --minify tag if you do not need it
+        # docs: https://gohugo.io/hugo-pipes/minification/
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/master' }}
         with:
-          github_token: ${{ secrets.TOKEN }}
+          personal_token: ${{ secrets.TOKEN }}
+          external_repository: ko-lab/ko-lab-website-publish
           publish_dir: ./public
+          publish_branch: master
