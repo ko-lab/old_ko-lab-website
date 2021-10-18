@@ -11,21 +11,16 @@
       <meta name="description" content="{{ . | plainify }}">
     {{ end }}
   {{ end }}
-  {{ $apple := resources.Get "static/apple-touch-icon.png" }}
-  {{ $webmanifest := resources.Get "static/site.webmanifest" }}
-  <link rel="apple-touch-icon" sizes="180x180" href="{{$apple.Permalink}}">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 
-    {{ $webmanifest := resources.Get "site.webmanifest" }}
-    {{ $safari := resources.Get "safari-pinned-tab.svg" }}
-    <link rel="manifest" href="{{$webmanifest.Permalink}}">
+    <link rel="manifest" href="/site.webmanifest">
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="theme-color" content="#ffffff">
-  {{ $prism := resources.Get "css/prism.css" }}
-  {{ $prismStyle := $prism | resources.ExecuteAsTemplate "css/prism.css" . }}
-  <link rel="stylesheet" type="text/css" href="{{ $prismStyle.Permalink }}">
+  <link rel="stylesheet" type="text/css" href="/css/prism.css"
 
   {{ $templateStyles := resources.Get "css/template-styles.css" }}
   {{ $styles := $templateStyles | resources.ExecuteAsTemplate "css/styles.css" . }}

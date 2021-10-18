@@ -7,6 +7,7 @@ googleAnalytics = ""
 disqusShortname = "yourdiscussshortname"
 enableGitInfo = true
 publishDir = "docs"
+assetDir = "static"
 [taxonomies]
   tag = "tags"
 
