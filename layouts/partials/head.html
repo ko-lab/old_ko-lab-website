@@ -25,8 +25,8 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="theme-color" content="#ffffff">
   {{ $prism := resources.Get "css/prism.css" }}
-  {{ $prismStyl := $prismStyle | resources.ExecuteAsTemplate "css/prism.css" . }}
-  <link rel="stylesheet" type="text/css" href="{{ $prismStyl.Permalink }}">
+  {{ $prismStyle := $prism | resources.ExecuteAsTemplate "css/prism.css" . }}
+  <link rel="stylesheet" type="text/css" href="{{ $prismStyle.Permalink }}">
 
   {{ $templateStyles := resources.Get "css/template-styles.css" }}
   {{ $styles := $templateStyles | resources.ExecuteAsTemplate "css/styles.css" . }}
