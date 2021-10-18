@@ -28,4 +28,3 @@ jobs:
           external_repository: ko-lab/ko-lab-website-publish
           publish_dir: ./public
           publish_branch: master
-          cname: ko-lab.space
