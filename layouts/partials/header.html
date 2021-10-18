@@ -2,7 +2,7 @@
   <div>
     <div class="intro">
       <a class="logo" href="/" aria-label="{{ .Site.Title }} home page">
-        <img class="logo" src="{{ "images/logo.svg"}}" alt="">
+        <img class="logo" src="{{ "{{.Site.BaseURL}}/images/logo.svg"}}" alt="">
       </a>
       <p class="library-desc">
         {{ with .Site.Params.description }}
