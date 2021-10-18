@@ -23,11 +23,7 @@
   <link rel="stylesheet" href="{{ "/css/prism.css"}}" media="none" onload="this.media='all';">
 
   {{ $templateStyles := resources.Get "/css/template-styles.css" }}
-<<<<<<< HEAD
-  {{ $styles := $templateStyles | resources.ExecuteAsTemplate "/css/styles.css" . }}
-=======
   {{ $styles := $templateStyles | resources.ExecuteAsTemplate "styles.css" . }}
->>>>>>> 46053729d5c7ebe280e3c31d81ecc3e52199fccd
   <link rel="stylesheet" type="text/css" href="{{ $styles.Permalink }}">
 
   {{ range .Site.Params.custom_css -}}
