@@ -25,7 +25,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
-          external_repository: ko-lab/ko-lab-website.github.io
+          external_repository: ko-lab.github.io/ko-lab-website
           publish_dir: ./public
           #   keep_files: true
           user_name: <username>
