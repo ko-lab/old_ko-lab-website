@@ -25,7 +25,7 @@ assetDir = "static"
   dateFormat = "Jan 2, 2006"
   codePenUser = "someUser"
   katex = false
-  custom_css = ["/css/custom.css"]
+  custom_css = ["css/custom.css"]
 
 [menu]
   [[menu.nav]]
