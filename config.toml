@@ -1,4 +1,4 @@
-baseURL = "ko-lab.github.io/ko-lab-website-publish/"
+baseURL = "https://ko-lab.github.io/ko-lab-website-publish"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "KO-LAB"
@@ -6,7 +6,8 @@ theme = "cupper-hugo-theme"
 googleAnalytics = ""
 disqusShortname = "yourdiscussshortname"
 enableGitInfo = true
-
+publishDir = "docs"
+assetDir = "static"
 [taxonomies]
   tag = "tags"
 
@@ -24,7 +25,7 @@ enableGitInfo = true
   dateFormat = "Jan 2, 2006"
   codePenUser = "someUser"
   katex = false
-  custom_css = ["/css/custom.css"]
+  custom_css = ["css/custom.css"]
 
 [menu]
   [[menu.nav]]
