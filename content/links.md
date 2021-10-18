@@ -15,7 +15,7 @@ title: "Links"
 
 
 ### Handig
-![Ko-Lab Robot](images/Robot-3-transparant-768x1024.png#floatright)
+![Ko-Lab Robot](images/Robot-2-transparant-768x1024.png#floatright)
 
 * [Belgium Hacker Agenda](http://hackeragenda.be/)
 * [Circuitsonline](http://www.circuitsonline.net/)
