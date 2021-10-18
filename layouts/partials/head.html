@@ -20,10 +20,10 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="theme-color" content="#ffffff">
 
-  <link rel="stylesheet" href="{{ "../css/prism.css"}}" media="none" onload="this.media='all';">
+  <link rel="stylesheet" href="{{ "/css/prism.css"}}" media="none" onload="this.media='all';">
 
-  {{ $templateStyles := resources.Get "css/template-styles.css" }}
-  {{ $styles := $templateStyles | resources.ExecuteAsTemplate "css/styles.css" . }}
+  {{ $templateStyles := resources.Get "/css/template-styles.css" }}
+  {{ $styles := $templateStyles | resources.ExecuteAsTemplate "styles.css" . }}
   <link rel="stylesheet" type="text/css" href="{{ $styles.Permalink }}">
 
   {{ range .Site.Params.custom_css -}}
