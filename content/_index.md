@@ -17,5 +17,5 @@ _Ko-Lab – Because we love to play, learn, and grow … together_
 
 ### Meer weten?
  {{< svg "envelope.svg" >}} [info (at) ko-lab.space](mailto:info(at)ko-lab.space)
- 
- {{< svg "telegram.svg" >}} [Telegram](https://t.me/KoLabHackerspaceMechelen)
+
+ {{< svg "discord.svg" >}} [Discord](https://discord.gg/uy6PHwCQ)
