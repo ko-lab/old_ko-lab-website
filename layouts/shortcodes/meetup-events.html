@@ -6,29 +6,31 @@
 <div class="meetup-events">
 
     <ul>
-        {{ range first 5 $dataJ.items }}
-                {{ if ne .title "Open Friday"}}
+        {{ with $dataJ.items }}
+            {{ range first 5 . }}
+                    {{ if ne .title "Open Friday"}}
+                    <li>
+                    <strong>{{ .title }}</strong> </br>
+                    {{ $pars := findRE "<p>[^<]+</p>" .description }} 
+                    {{/* {{ $org  := index $pars 0 | plainify }} */}}
+                    {{ $info := index $pars 1 | plainify }}
+                    {{ $date := index $pars 3 | plainify }} 
+                    {{ $date }} <br>
+                    <a href={{ .link }}>(more info)</a>
+                </li>
+                    {{else}}
                 <li>
-                <strong>{{ .title }}</strong> </br>
-                {{ $pars := findRE "<p>[^<]+</p>" .description }} 
-                {{/* {{ $org  := index $pars 0 | plainify }} */}}
-                {{ $info := index $pars 1 | plainify }}
-                {{ $date := index $pars 3 | plainify }} 
-                {{ $date }} <br>
-                <a href={{ .link }}>(more info)</a>
-            </li>
-                {{else}}
-            <li>
-                <strong>
-                    Open Friday
-                </strong></br>
-                {{ $pars := findRE "<p>[^<]+</p>" .description }} 
-                {{ $info := index $pars 1 | plainify }}
-                {{ $date := index $pars 2 | plainify }} 
-                {{ $date }} <br>
-                <a href={{ .link }}>(more info)</a>
-            </li>
-                {{end}}
+                    <strong>
+                        Open Friday
+                    </strong></br>
+                    {{ $pars := findRE "<p>[^<]+</p>" .description }} 
+                    {{ $info := index $pars 1 | plainify }}
+                    {{ $date := index $pars 2 | plainify }} 
+                    {{ $date }} <br>
+                    <a href={{ .link }}>(more info)</a>
+                </li>
+                    {{end}}
+            {{ end }}
         {{ end }}
     </ul>
     <p class="meetup-events-ext-link">
