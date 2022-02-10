@@ -1,4 +1,4 @@
-baseURL = "https://ko-lab.github.io/ko-lab-website-publish"
+baseURL = "https://ko-lab.space"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "KO-LAB"
@@ -24,9 +24,7 @@ assetDir = "static"
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
   codePenUser = "someUser"
-  katex = false
-  custom_css = ["css/custom.css"]
-
+  katex = falseb
 [menu]
   [[menu.nav]]
     name = "Home"
