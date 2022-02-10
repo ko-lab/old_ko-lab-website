@@ -10,10 +10,10 @@ Als je dan zin hebt om lid te worden, kom je naar Ko-Lab en vraag je om lid te w
 
 ### Waarom lid worden?
 
-[x] Je steunt Ko-Lab. 
-[x] Je kan onbeperkt gebruik maken van de ruimte en alle aanwezige materiaal. Je kan dus ook op andere dagen langskomen.
-[x] Je krijgt korting op georganiseerde workshops en activiteiten.
-[x] Je kan mee beslissen over de koers die we uitvaren en de investeringen die we doen.
+- Je steunt Ko-Lab. 
+- Je kan onbeperkt gebruik maken van de ruimte en alle aanwezige materiaal. Je kan dus ook op andere dagen langskomen.
+- Je krijgt korting op georganiseerde workshops en activiteiten.
+- Je kan mee beslissen over de koers die we uitvaren en de investeringen die we doen.
 
 ### Prijzen
 Je kan op **jaarbasis** of **maandbasis** je lidmaatschap betalen:
