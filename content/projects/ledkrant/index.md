@@ -5,6 +5,6 @@ tags: [LED, IoT, Micropython, ESP32, MQTT]
 description: Everything looks better in LED!
 ---
 
-{{< figureCupper img="ledkrant1.jpg" command="Resize" options="700x" caption="A hacker campfire" >}}
-{{< figureCupper img="ledkrant2.jpg" command="Resize" options="700x" >}}
-{{< figureCupper img="ledkrant3.jpg" command="Resize" options="700x" >}}
+{{< figureKolab img="ledkrant1.jpg" command="Resize" options="700x" caption="A hacker campfire" >}}
+{{< figureKolab img="ledkrant2.jpg" command="Resize" options="700x" >}}
+{{< figureKolab img="ledkrant3.jpg" command="Resize" options="700x" >}}
