@@ -6,7 +6,7 @@ description: We made a retro arcade machine, then we turned it into a dance floo
 thumbnail: arcade3.jpg
 ---
 
-{{< figureCupper img="kast-in-wording.jpg" command="Resize" options="700x" >}}
-{{< figureCupper img="arcade1.jpg" command="Resize" options="700x" >}}
-{{< figureCupper img="arcade2.jpg" command="Resize" options="700x" >}}
-{{< figureCupper img="arcade3.jpg" command="Resize" options="700x" >}}
+{{< figureKolab img="kast-in-wording.jpg" command="Resize" options="700x" >}}
+{{< figureKolab img="arcade1.jpg" command="Resize" options="700x" >}}
+{{< figureKolab img="arcade2.jpg" command="Resize" options="700x" >}}
+{{< figureKolab img="arcade3.jpg" command="Resize" options="700x" >}}

@@ -8,4 +8,4 @@ thumbnail:
 
 
 
-{{< figureCupper img="floppotron1.jpg" command="Resize" options="700x" >}}
+{{< figureKolab img="floppotron1.jpg" command="Resize" options="700x" >}}

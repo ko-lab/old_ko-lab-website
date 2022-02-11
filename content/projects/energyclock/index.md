@@ -7,4 +7,4 @@ thumbnail:
 ---
 
 
-{{< figureCupper img="clock1.jpg" command="Resize" options="700x" >}}
+{{< figureKolab img="clock1.jpg" command="Resize" options="700x" >}}
