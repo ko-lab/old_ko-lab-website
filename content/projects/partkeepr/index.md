@@ -6,7 +6,7 @@ description: Where is the teleportation gate? Look in Partkeepr!
 thumbnail: partkeepr-logo-only.jpeg
 ---
 
-{{< figure img="partkeepr-logo.png" command="Resize" options="700x" caption="" >}}
+{{< figureCupper img="partkeepr-logo.png" command="Resize" options="700x" caption="" >}}
 
 As we have a nice hackerspace with plenty of room, we also have quite some equipment, parts, tools and raw materials.
 
@@ -17,6 +17,6 @@ The project is on github : <https://github.com/ko-lab/partkeepr>
 This particular instance is set up in a docker container. It is started up with docker compose together with a database
 container. This makes it easy to reinstall from a reference when needed.
 
-{{< figure img="partkeepr-on-pc.jpg" command="Resize" options="700x" caption="Our local Partkeepr PC" >}}
-{{< figure img="partkeepr-overview.png" command="Resize" options="700x" >}}
-{{< figure img="partkeepr-add-part" command="Resize" options="700x" >}}
+{{< figureCupper img="partkeepr-on-pc.jpg" command="Resize" options="700x" caption="Our local Partkeepr PC" >}}
+{{< figureCupper img="partkeepr-overview.png" command="Resize" options="700x" >}}
+{{< figureCupper img="partkeepr-add-part" command="Resize" options="700x" >}}
