@@ -16,6 +16,6 @@ _Ko-Lab – Because we love to play, learn, and grow … together_
 > Potterijstraat 5, 2800 Mechelen [(map)](https://goo.gl/maps/yJpeJvWsEqhQ6sit7)
 
 ### Meer weten?
- {{< svg "envelope.svg" >}} [info (at) ko-lab.space](mailto:info(at)ko-lab.space)
+<img src="https://ko-lab.space/images/fontawesome/envelope.svg" width="20"> [info (at) ko-lab.space](mailto:info(at)ko-lab.space)
 
- {{< svg "discord.svg" >}} [Discord](https://discord.gg/uy6PHwCQ)
+<img src="https://ko-lab.space/images/fontawesome/discord.svg" width="20"> [Discord](https://discord.gg/uy6PHwCQ)
