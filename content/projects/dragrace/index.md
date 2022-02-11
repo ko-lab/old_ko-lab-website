@@ -7,5 +7,5 @@ thumbnail:
 event: false
 ---
 
-{{< figure img="dragrace1.jpg" command="Resize" options="700x" >}}
-{{< figure img="dragrace2.jpg" command="Resize" options="700x" >}}
+{{< figureCupper img="dragrace1.jpg" command="Resize" options="700x" >}}
+{{< figureCupper img="dragrace2.jpg" command="Resize" options="700x" >}}
