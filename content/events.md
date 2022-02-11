@@ -9,7 +9,7 @@ title: "Events"
 
 ## Past Highlights
 
-![Ko-Lab Robot](images/ko-lab-robot-transparant-768x1024.png#floatright)
+![Ko-Lab Robot](./images/ko-lab-robot-transparant-768x1024.png#floatright)
 
 {{< blog-events >}}
 
