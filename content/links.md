@@ -9,8 +9,7 @@ title: "Links"
 * [HSBXL (Brussels)](https://hsbxl.be/)
 * [Liège Hackerspace](https://lghs.be/)
 * [Open Garage (Borsbeek)](https://www.meetup.com/OpenGarage/)
-* [Void Warranties (Antwerp)](http://we.voidwarranties.be/)
-* [Walking Robot (Deurne)](http://lab.walkingrobot.be/)
+* [Void Warranties (Antwerp)](http://www.voidwarranties.be/)
 * [Hackerspace Gent](http://0x20.be/)
 
 
