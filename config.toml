@@ -30,10 +30,10 @@ assetDir = "static"
     name = "Home"
     url = "/"
     weight = 1
-  [[menu.nav]]
-    name = "Blog"
-    url = "/post/"
-    weight = 3
+#  [[menu.nav]]
+#    name = "Blog"
+#    url = "/post/"
+#    weight = 2
   [[menu.nav]]
     name = "Events"
     url = "/events/"
