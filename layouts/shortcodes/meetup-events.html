@@ -1,6 +1,6 @@
 {{ $group := (.Get 0) }}
 {{ $page := (printf "https://www.meetup.com/%s" $group) }}
-{{ $jsonurl := (printf "https://api.rss2json.com/v1/api.json?rss_url=https://www.meetup.com/%s/events/rss/" $group) }}
+{{ $jsonurl := (printf "https://api.rss2json.com/v1/api.json?rss_url=https://www.meetup.com/%s/events/rss" $group) }}
 {{ $dataJ := getJSON $jsonurl }}
 {{$exists := false}}
 <div class="meetup-events">
