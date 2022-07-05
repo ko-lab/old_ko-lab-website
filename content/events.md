@@ -20,3 +20,4 @@ title: "Events"
 - Repair Café @ vzw De Keeting
 - Deelname BK Power Tool Drag Racing @ Open Garage
 - Zeefdruk workshop @ Kringwinkel
+<br/>
