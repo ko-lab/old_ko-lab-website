@@ -6,8 +6,6 @@ title: "About"
 ### Contact 
 
 > Ko-Lab vzw  
-> Potterijstraat 5  
-> 2800 Mechelen  
 
 Rekeningnummer: `BE29 8939 4405 2464`  
 Ondernemingsnummer: `0660.751.627`
