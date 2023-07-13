@@ -5,7 +5,7 @@ title: "Events"
 
 ## Upcoming Events
 
-{{< meetup-events "Ko-Lab-mechelen" >}}
+### At the moment no events planned.
 
 ## Past Highlights
 
