@@ -6,7 +6,7 @@ theme = "cupper-hugo-theme"
 googleAnalytics = ""
 disqusShortname = "yourdiscussshortname"
 enableGitInfo = true
-publishDir = "docs"
+publishDir = "public"
 assetDir = "static"
 [taxonomies]
   tag = "tags"
