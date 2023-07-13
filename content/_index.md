@@ -2,9 +2,7 @@
 date: "2017-06-26T18:27:58+01:00"
 title: "Ko-Lab Hackerspace Mechelen"
 ---
-## Opendeurdag 1/10/2022:
-### Ontdek wetenschap, techniek en ambacht van 10 tot 18
-A **Hackerspace** -- also referred to as a makerspace, hacklab -- is a community-operated workspace where people can meet, socialize and ko-laborate. Often with common interests in science, technology, articrafts, digital art etc. It offers the place and time to do or find out what you really love to do.
+Momenteel zoeken we een locatie, voor meer informatie bekijk onze Discord
 
 Dus, **Ko-Lab** biedt de ruimte; jij bepaalt of het een werkplek, een gezellige huiskamer, een atelier, een machinewinkel, een kunststudio, een leerplek en/of een ontmoetingsplek wordt. 
 
