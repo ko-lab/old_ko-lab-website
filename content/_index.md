@@ -2,7 +2,7 @@
 date: "2017-06-26T18:27:58+01:00"
 title: "Ko-Lab Hackerspace Mechelen"
 ---
-Momenteel zoeken we een locatie, voor meer informatie bekijk onze Discord
+# Momenteel zoeken we een locatie, voor meer informatie bekijk onze Discord
 
 Dus, **Ko-Lab** biedt de ruimte; jij bepaalt of het een werkplek, een gezellige huiskamer, een atelier, een machinewinkel, een kunststudio, een leerplek en/of een ontmoetingsplek wordt. 
 
