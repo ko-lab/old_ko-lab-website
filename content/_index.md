@@ -13,8 +13,7 @@ _Ko-Lab – Because we love to play, learn, and grow … together_
 ![Ko-Lab Robot](images/ko-lab-robot-transparant-768x1024.png#floatright)
 
 > **Interested? Join us on Open Friday!**  
-> **Every Friday at 19h**  
-> Potterijstraat 5, 2800 Mechelen [(map)](https://goo.gl/maps/yJpeJvWsEqhQ6sit7)
+> ** We are looking for a new location. For updates check Discord.
 
 ### Meer weten?
 <img src="/images/fontawesome/envelope.svg" style="width:1.5rem;vertical-align: middle;"> [info (at) ko-lab.space](mailto:info(at)ko-lab.space)
