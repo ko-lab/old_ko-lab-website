@@ -16,4 +16,4 @@ _Ko-Lab – Because we love to play, learn, and grow … together_
 ### Meer weten?
 <img src="/images/fontawesome/envelope.svg" style="width:1.5rem;vertical-align: middle;"> [info (at) ko-lab.space](mailto:info(at)ko-lab.space)
 
-<img src="/images/fontawesome/discord.svg" style="width:1.5rem;vertical-align: middle;"> [Discord](https://discord.gg/uy6PHwCQ)
+<img src="/images/fontawesome/discord.svg" style="width:1.5rem;vertical-align: middle;"> [Discord](https://discord.gg/3dWQGzWTsy)
