@@ -4,8 +4,8 @@ title: "Events"
 ---
 
 ## Upcoming Events
+### HACK3D
 [HACK3D](https://ko-lab.weticket.io/hack3d-001) is een initiatief van Ko-Lab Hackerspace Mechelen om mensen bewust te maken van de digitale gevaren om ons heen. Tijdens deze reeks talknights belichten we alledaagse cybersecurityrisico’s en hoe we ons ertegen kunnen beschermen
-### At the moment no events planned.
 
 ## Past Highlights
 
