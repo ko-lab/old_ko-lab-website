@@ -61,3 +61,4 @@ assetDir = "static"
   [[menu.nav]]
     name = "Privacy"
     url = "/privacy/"
+    weight = 9
