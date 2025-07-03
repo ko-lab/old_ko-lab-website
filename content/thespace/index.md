@@ -35,7 +35,7 @@ title: "The Space"
 
 ## How to find us
 
-Come to Potterijstraat 5, 2800 Mechelen [(map)](https://goo.gl/maps/yJpeJvWsEqhQ6sit7)
+Come to De Regenboog 11, 2800 Mechelen [(map)](https://maps.app.goo.gl/mdjhc9DMZKyGPJZU7)
 
 {{< figureKolab img="greendoor.jpg" command="Resize" options="500x" caption="Enter through the green door, turn left and go up the stairs.">}}
 {{< figureKolab img="woodendoor.jpg" command="Resize" options="700x" caption="Behind the wooden door: a land of Mate and magic.">}}
