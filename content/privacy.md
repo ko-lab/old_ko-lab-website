@@ -1,4 +1,8 @@
-# Privacybeleid
+---
+date: "2025-07-04"
+title: "Privacybeleid"
+---
+
 
 ## 1. Wie zijn wij?
 
