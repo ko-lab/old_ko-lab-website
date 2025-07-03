@@ -58,7 +58,3 @@ assetDir = "static"
     name = "About"
     url = "/about/"
     weight = 8
-  [[menu.nav]]
-    name = "Privacy"
-    url = "/privacy/"
-    weight = 9
