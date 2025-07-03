@@ -1,5 +1,5 @@
 ---
-date: "2025-07-04"
+date: "2025-07-02"
 title: "Privacybeleid"
 ---
 
