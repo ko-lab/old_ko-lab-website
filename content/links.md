@@ -8,7 +8,6 @@ title: "Links"
 * [Brixel (Hasselt)](http://brixel.be/)
 * [HSBXL (Brussels)](https://hsbxl.be/)
 * [Liège Hackerspace](https://lghs.be/)
-* [Open Garage (Borsbeek)](https://www.meetup.com/OpenGarage/)
 * [Void Warranties (Antwerp)](http://www.voidwarranties.be/)
 * [Hackerspace Gent](http://0x20.be/)
 
