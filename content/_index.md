@@ -12,6 +12,6 @@ _Ko-Lab – Because we love to play, learn, and grow together_
 ![Ko-Lab Robot](images/ko-lab-robot-transparant-768x1024.png#floatright)
 
 **Join us on Open Friday(Starting from 19h)!**  
-[Hovenierstraat 14, 2800 Mechelen](https://maps.app.goo.gl/AUvwKzkyA6VRu7gy6)
+[Hoveniersstraat 14, 2800 Mechelen](https://maps.app.goo.gl/AUvwKzkyA6VRu7gy6)
 ### Meer weten?
 <img src="/images/fontawesome/envelope.svg" style="width:1.5rem;vertical-align: middle;"> [info@ko-lab.space](mailto:info@ko-lab.space) - <img src="/images/fontawesome/discord.svg" style="width:1.5rem;vertical-align: middle;"> [Discord](https://discord.gg/3dWQGzWTsy)
