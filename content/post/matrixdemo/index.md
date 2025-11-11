@@ -7,8 +7,9 @@ event: true # change to true to link post under "past events"
 
 [Matrix](https://matrix.org/) is een open source, gedecentraliseerd chat platform met end-to-end encryption.
 
-Een alternatief voor platformen als WhatsApp, Telegram, Signal, Slack, etc, maar dan zonder machtig Amerikaans tech
-bedrijf dat aan de touwtjes trekt, de poorten voor je kan sluiten, advertenties verkoopt, of zelfs met je meeleest.
+Een alternatief voor platformen als WhatsApp, Facebook Messenger, Telegram, Slack, etc, maar dan zonder machtig,
+veelal Amerikaans tech bedrijf dat aan de touwtjes trekt, de poorten voor je kan sluiten, advertenties verkoopt, of
+zelfs met je meeleest.
 
 Het is een netwerk van duizenden onafhankelijke servers die met elkaar communiceren, en gebruikers weer volledige
 digitale soevereiniteit biedt.
