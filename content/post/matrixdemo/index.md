@@ -20,7 +20,7 @@ Slack, Zoom, etc voor Matrix en andere open source oplossingen in te ruilen.
 Kom op **woensdag 10 december** kennismaken met Matrix in onze hackerspace in Mechelen tijdens een interessante talk en demo.
 
 **Wat:** Matrix talk en demo  
-**Waar:** Ko-Lab Hackerspace ([Hoeveniersstraat 14, 2800 Mechelen](https://maps.app.goo.gl/AUvwKzkyA6VRu7gy6))  
+**Waar:** Ko-Lab Hackerspace ([Hoveniersstraat 14, 2800 Mechelen](https://maps.app.goo.gl/AUvwKzkyA6VRu7gy6))  
 **Wanneer:** Woensdagavond 10 december 2025, 19:30 - 21:00  
 **Prijs:** Gratis  
 **Inschrijving:** [https://ko-lab.weticket.io/matrix-talk-demo](https://ko-lab.weticket.io/matrix-talk-demo) 
