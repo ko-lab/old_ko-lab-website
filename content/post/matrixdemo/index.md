@@ -14,7 +14,7 @@ zelfs met je meeleest.
 Het is een netwerk van duizenden onafhankelijke servers die met elkaar communiceren, en gebruikers weer volledige
 digitale soevereiniteit biedt.
 
-Het is deze digitale soevereiniteit die naast gewone gebruikers ook steeds meer overheden ertoe zet hun MS Teams,
+Het is deze digitale soevereiniteit die naast gewone gebruikers ook steeds meer overheden ertoe aanzet hun MS Teams,
 Slack, Zoom, etc voor Matrix en andere open source oplossingen in te ruilen.
 
 Kom op **woensdag 10 december** kennismaken met Matrix in onze hackerspace in Mechelen tijdens een interessante talk en demo.
