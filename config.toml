@@ -8,6 +8,8 @@ disqusShortname = "yourdiscussshortname"
 enableGitInfo = true
 publishDir = "public"
 assetDir = "static"
+buildFuture = true
+
 [taxonomies]
   tag = "tags"
 
