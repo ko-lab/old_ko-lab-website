@@ -24,3 +24,5 @@ Kom op **woensdag 10 december** kennismaken met Matrix in onze hackerspace in Me
 **Wanneer:** Woensdagavond 10 december 2025, 19:30 - 21:00  
 **Prijs:** Gratis  
 **Inschrijving:** [https://ko-lab.weticket.io/matrix-talk-demo](https://ko-lab.weticket.io/matrix-talk-demo) 
+
+![](matrix-logo.png)
