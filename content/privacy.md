@@ -68,7 +68,7 @@ We kiezen onze partners zorgvuldig en zorgen ervoor dat ze GDPR-conform handelen
 
 ## 6. Online communicatie en platformen
 
-Onze community communiceert ook via platforms zoals Discord en Signal. De verwerking van persoonsgegevens op deze platforms valt onder de privacyverklaring van de respectievelijke aanbieders. We vragen je om bewust en respectvol om te gaan met je eigen en andermans persoonsgegevens binnen deze omgevingen.
+Onze community communiceert ook via Mattermost. De verwerking van persoonsgegevens op deze platforms valt onder de privacyverklaring van de respectievelijke aanbieders. We vragen je om bewust en respectvol om te gaan met je eigen en andermans persoonsgegevens binnen deze omgevingen.
 
 ---
 

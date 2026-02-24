@@ -14,4 +14,4 @@ _Ko-Lab – Because we love to play, learn, and grow together_
 **Join us on Open Friday(Starting from 19h)!**  
 [Hoveniersstraat 14, 2800 Mechelen](https://maps.app.goo.gl/AUvwKzkyA6VRu7gy6)
 ### Meer weten?
-<img src="/images/fontawesome/envelope.svg" style="width:1.5rem;vertical-align: middle;"> [info@ko-lab.space](mailto:info@ko-lab.space) - <img src="/images/fontawesome/discord.svg" style="width:1.5rem;vertical-align: middle;"> [Discord](https://discord.gg/3dWQGzWTsy)
+<img src="images/fontawesome/envelope.svg" style="width:1.5rem;vertical-align: middle;"> [info@ko-lab.space](mailto:info@ko-lab.space) - <img src="images/fontawesome/Mattermost_icon_black.svg" style="width:1.5rem;vertical-align: middle;"> [Mattermost](https://mattermost.ko-lab.space/signup_user_complete/?id=nk7dg5o8tjdqpxdu16i5ic3i5o)
