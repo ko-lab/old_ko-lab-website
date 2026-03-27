@@ -5,11 +5,12 @@ title: "Events"
 
 ## Upcoming Events
 
-### Matrix talk en demo
+### Brainstorm rond toegankelijkheid & makerspaces
 
-[Matrix](https://matrix.org/) is een open source, gedecentraliseerd chat platform met end-to-end encryption.
+Enkele gasten uit de Weense hackerspace [Metalab](https://metalab.at/) komen hun projecten en ervaringen rond technologie voor blinden en slechtzienden delen.
+Iedereen met interesse in technologie, toegankelijkheid of communitywerking is welkom.
 
-[Kom op 10 december kennismaken met Matrix in onze hackerspace in Mechelen tijdens een interessante talk en demo.](../matrixdemo)
+[Kom op 23 april naar onze hackerspace in Mechelen om deel te nemen.](../brainstormtoegankelijkheid)
 
 
 ## Past Highlights
