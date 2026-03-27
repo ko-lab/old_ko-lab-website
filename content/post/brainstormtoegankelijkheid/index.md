@@ -14,7 +14,7 @@ We voorzien korte presentaties, uitwisseling van ideeën en een open gesprek ove
 Noteer alvast de datum: **donderdag 23 april**. Praktische info (zoals uur, agenda en bereikbaarheid) volgt binnenkort op deze pagina. 
 Heb je interesse om deel te nemen? Laat het ons weten als je zeker op de hoogte wil blijven.
 
-**Wat:** Brainstorm rond & showcase can technologie voor    
+**Wat:** Brainstorm rond & showcase van technologie voor toegankelijkheid blinden en slechtzienden.   
 **Waar:** Ko-Lab Hackerspace ([Hoveniersstraat 14, 2800 Mechelen](https://maps.app.goo.gl/AUvwKzkyA6VRu7gy6))  
 **Wanneer:** Donderdagavond 23 april 2026, (startuur nog aan te kondigen)  
 **Prijs:** Gratis
