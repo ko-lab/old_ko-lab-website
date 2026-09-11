@@ -146,3 +146,15 @@ ul + ul {
     border-color: teal;
     color: teal;
 }
+
+footer[role="contentinfo"] {
+    margin-top: 3rem;
+    padding: 1rem 0 2rem;
+    font-size: 0.8rem;
+    text-align: center;
+    opacity: 0.8;
+}
+
+footer[role="contentinfo"] p {
+    margin: 0.2em 0;
+}
