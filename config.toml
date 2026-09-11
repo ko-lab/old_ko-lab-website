@@ -22,7 +22,13 @@ buildFuture = true
 [params]
   description = "A Space to Explore, Create and Share. 🚀"
   homeMetaContent = "A Space to Explore, Create and Share"
-  footer = ""
+  footer = """
+**Ko-Lab vzw** &middot; ondernemingsnummer BE 0660.751.627
+Maatschappelijke zetel: Donk 12 bus 2, 2860 Sint-Katelijne-Waver
+Onze hackerspace bevindt zich op een ander adres: [Hoveniersstraat 14, 2800 Mechelen](https://maps.app.goo.gl/AUvwKzkyA6VRu7gy6)
+
+[Privacybeleid](/privacy/)
+"""
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
   codePenUser = "someUser"
