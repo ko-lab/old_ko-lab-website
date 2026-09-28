@@ -5,6 +5,10 @@ title: "Events"
 
 ## Upcoming Events
 
+Ko-lab nodigt iedereen uit voor ons 10 jarig bestaan. Vier een decennium van open source, hardware hacking en community met ons op [zaterdag 10 oktober](https://10year.ko-lab.be/).
+
+## Past Highlights
+
 ### Brainstorm rond toegankelijkheid & makerspaces
 
 Enkele gasten uit de Weense hackerspace [Metalab](https://metalab.at/) komen hun projecten en ervaringen rond technologie voor blinden en slechtzienden delen.
@@ -12,10 +16,8 @@ Iedereen met interesse in technologie, toegankelijkheid of communitywerking is w
 
 [Kom op 23 april naar onze hackerspace in Mechelen om deel te nemen.](../brainstormtoegankelijkheid)
 
-
-## Past Highlights
-
 ### HACK3D
+
 [HACK3D](https://ko-lab.weticket.io/hack3d-001) is een initiatief van Ko-Lab Hackerspace Mechelen om mensen bewust te maken van de digitale gevaren om ons heen. Tijdens deze reeks talknights belichten we alledaagse cybersecurityrisico’s en hoe we ons ertegen kunnen beschermen
 
 ![Ko-Lab Robot](../images/ko-lab-robot-transparant-768x1024.png#floatright)
